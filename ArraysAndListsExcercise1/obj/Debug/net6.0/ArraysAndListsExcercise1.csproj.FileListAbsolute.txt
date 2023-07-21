@@ -1,0 +1,15 @@
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\bin\Debug\net6.0\ArraysAndListsExcercise1.exe
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\bin\Debug\net6.0\ArraysAndListsExcercise1.deps.json
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\bin\Debug\net6.0\ArraysAndListsExcercise1.runtimeconfig.json
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\bin\Debug\net6.0\ArraysAndListsExcercise1.dll
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\bin\Debug\net6.0\ArraysAndListsExcercise1.pdb
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.csproj.AssemblyReference.cache
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.AssemblyInfoInputs.cache
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.AssemblyInfo.cs
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.csproj.CoreCompileInputs.cache
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.dll
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\refint\ArraysAndListsExcercise1.dll
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.pdb
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ArraysAndListsExcercise1.genruntimeconfig.cache
+C:\C# Projects\ArraysAndListsExcecise1\ArraysAndListsExcercise1\obj\Debug\net6.0\ref\ArraysAndListsExcercise1.dll

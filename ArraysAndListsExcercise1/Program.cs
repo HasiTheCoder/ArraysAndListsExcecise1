@@ -28,14 +28,16 @@ namespace ArraysAndListsExcecise1
         static List<String> GetFriendNames() {
             List<String> friendNames = new List<string>();
             Boolean NameEntered = true;
-            int i = 0;
             while (NameEntered) {
                 Console.WriteLine("Enter the name of a friend that liked your post: ");
-                friendNames.Add(Console.ReadLine());
-                if (String.IsNullOrEmpty(friendNames[i].Trim()))
+                String name = Console.ReadLine();
+                if (String.IsNullOrEmpty(name))
                 {
-                    friendNames.RemoveAt(i);
-                    break;
+                    NameEntered = false;
+                }
+                else 
+                {
+                    friendNames.Add(name);
                 }
             } 
             return friendNames;
