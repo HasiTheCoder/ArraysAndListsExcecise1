@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ArraysAndListsExcecise1 
+namespace ArraysAndListsExcecise1
 {
     class Program 
     {
